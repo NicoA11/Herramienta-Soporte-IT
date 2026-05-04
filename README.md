@@ -25,7 +25,7 @@ Script interactivo en PowerShell diseñado para automatizar tareas comunes de so
 2. Abrir PowerShell como Administrador.
 3. Ir a la carpeta del script:
 
-``powershell
+```powershell
 cd "C:\Ruta\Del\Script"
 
 Ejecutar:
